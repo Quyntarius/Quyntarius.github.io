@@ -2,7 +2,6 @@ body{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin: 0;
     text-align: center;
-    background-image: url("background2.jpg");
     height: 100%;
     background-position: center;
 }
@@ -11,7 +10,6 @@ body{
     display:flex;
     padding:10px;
     margin: 50px;
-    background-image: url("background3a.jpg");
     background-position: center;
     background-size: cover;
     border-radius: 30px;
