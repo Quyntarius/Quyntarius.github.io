@@ -7,6 +7,12 @@ body{
     background-position: center;
 }
 
+img {
+    float: center;
+    width:  250px;
+    object-fit: cover;
+}
+
 .assignment{
     display:flex;
     padding:10px;
@@ -43,12 +49,6 @@ h1{
     line-height: 1;
     margin: 0;
     text-align: center;
-}
-
-img {
-    float: center;
-    width:  250px;
-    object-fit: cover;
 }
 
 h2{
