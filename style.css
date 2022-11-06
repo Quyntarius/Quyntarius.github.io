@@ -45,6 +45,12 @@ h1{
     text-align: center;
 }
 
+img {
+    float: center;
+    width:  250px;
+    object-fit: cover;
+}
+
 h2{
     
     color: #8A00E0;
